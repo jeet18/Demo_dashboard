@@ -7,4 +7,4 @@ This is my first Demo page
 
  # creating branch 
   
-  1. i have created anither branch 
+  1. i have created another branch 
